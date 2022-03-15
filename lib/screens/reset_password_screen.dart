@@ -104,7 +104,7 @@ class _ResetPasswordScreen extends State<ResetPasswordScreen> {
                   color: Colors.black45,
                 ),
                 decoration: InputDecoration(
-                  hintText: 'تاكيد كلمة المرور',
+                  hintText: ' تاكيد كلمة المرور',
                   hintMaxLines: 1,
                   hintStyle: TextStyle(color: Colors.black38, fontSize: 15),
                   fillColor: Colors.white,
